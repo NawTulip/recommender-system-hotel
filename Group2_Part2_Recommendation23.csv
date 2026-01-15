@@ -1,0 +1,51 @@
+userid,itemid,hotelid,hotelname,similarity
+1,213,129841,Alp Art Hotel,0.945424
+1,211,129841,Alp Art Hotel,0.943261
+1,364,173755,Seminar & Urlaubshotel Oststeirischer Hof Sochau,0.941941
+1,323,166965,Hotel Regitnig,0.934130
+1,203,129814,Sport- und Wellnesshotel Held,0.914847
+1,586,503028,Sporthotel Igls,0.271039
+1,587,503028,Sporthotel Igls,0.271039
+1,588,503028,Sporthotel Igls,0.266480
+1,589,503028,Sporthotel Igls,0.266480
+1,590,503028,Sporthotel Igls,0.266480
+2,442,251488,Rilano Resort Steinplatte,0.730640
+2,443,251488,Rilano Resort Steinplatte,0.730640
+2,494,349269,Almwellness-Resort Tuffbad,0.728987
+2,495,349269,Almwellness-Resort Tuffbad,0.728149
+2,441,251488,Rilano Resort Steinplatte,0.725807
+2,496,349269,Almwellness-Resort Tuffbad,0.725261
+2,769,7482881,Pension Restaurant Rosenberg,0.672687
+2,771,7482881,Pension Restaurant Rosenberg,0.659847
+2,48,8306,Novum Hotel Prinz Eugen Wien,0.372563
+2,52,8306,Novum Hotel Prinz Eugen Wien,0.371464
+3,769,7482881,Pension Restaurant Rosenberg,0.958638
+3,770,7482881,Pension Restaurant Rosenberg,0.936587
+3,48,8306,Novum Hotel Prinz Eugen Wien,0.544009
+3,138,90861,Hotel Am Parkring,0.543247
+3,52,8306,Novum Hotel Prinz Eugen Wien,0.542349
+3,53,8306,Novum Hotel Prinz Eugen Wien,0.541060
+3,476,298167,Living Hotel Kaiser Franz Joseph by Derag,0.537194
+3,2,31,The Harmonie Vienna  BW Premier Collection,0.516392
+3,676,1245335,Hotel Austria,0.514804
+3,669,1245335,Hotel Austria,0.514427
+4,44,7453,Altstadthotel Kasererbraeu,0.992669
+4,46,7453,Altstadthotel Kasererbraeu,0.991544
+4,47,7453,Altstadthotel Kasererbraeu,0.990659
+4,756,7229537,AMEDIA Hotel Linz,0.394390
+4,754,7229537,AMEDIA Hotel Linz,0.169915
+4,83,70993,Star Inn Hotel Salzburg Airport-Messe  by Comfort,0.167036
+4,85,70993,Star Inn Hotel Salzburg Airport-Messe  by Comfort,0.165795
+4,87,70993,Star Inn Hotel Salzburg Airport-Messe  by Comfort,0.161793
+4,742,6751215,Arthotel ANA Westbahn,0.158445
+4,743,6751215,Arthotel ANA Westbahn,0.158445
+5,123,82699,Hotel Lucia,0.915159
+5,3,31,The Harmonie Vienna  BW Premier Collection,0.831409
+5,1,31,The Harmonie Vienna  BW Premier Collection,0.771275
+5,125,82699,Hotel Lucia,0.709342
+5,126,82699,Hotel Lucia,0.706136
+5,122,82699,Hotel Lucia,0.705602
+5,48,8306,Novum Hotel Prinz Eugen Wien,0.618778
+5,138,90861,Hotel Am Parkring,0.614087
+5,476,298167,Living Hotel Kaiser Franz Joseph by Derag,0.613985
+5,52,8306,Novum Hotel Prinz Eugen Wien,0.613539

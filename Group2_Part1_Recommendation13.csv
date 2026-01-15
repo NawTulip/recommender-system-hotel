@@ -1,0 +1,26 @@
+userid,itemid,hotelid,hotelname,similarity
+1,140,90896,Hotel Altstadt Vienna,0.756757
+1,4,31,The Harmonie Vienna  BW Premier Collection,0.729730
+1,531,381887,Landhotel Stockerwirt,0.722222
+1,586,503028,Sporthotel Igls,0.722222
+1,587,503028,Sporthotel Igls,0.722222
+2,769,7482881,Pension Restaurant Rosenberg,0.916667
+2,771,7482881,Pension Restaurant Rosenberg,0.875000
+2,747,6881583,Hotel Die Residenz Superior,0.720000
+2,748,6881583,Hotel Die Residenz Superior,0.700000
+2,749,6881583,Hotel Die Residenz Superior,0.700000
+3,769,7482881,Pension Restaurant Rosenberg,0.955556
+3,770,7482881,Pension Restaurant Rosenberg,0.893617
+3,748,6881583,Hotel Die Residenz Superior,0.687500
+3,749,6881583,Hotel Die Residenz Superior,0.687500
+3,747,6881583,Hotel Die Residenz Superior,0.673469
+4,83,70993,Star Inn Hotel Salzburg Airport-Messe  by Comfort,0.866667
+4,85,70993,Star Inn Hotel Salzburg Airport-Messe  by Comfort,0.833333
+4,81,70993,Star Inn Hotel Salzburg Airport-Messe  by Comfort,0.806452
+4,82,70993,Star Inn Hotel Salzburg Airport-Messe  by Comfort,0.806452
+4,87,70993,Star Inn Hotel Salzburg Airport-Messe  by Comfort,0.800000
+5,123,82699,Hotel Lucia,0.750000
+5,122,82699,Hotel Lucia,0.722222
+5,85,70993,Star Inn Hotel Salzburg Airport-Messe  by Comfort,0.714286
+5,125,82699,Hotel Lucia,0.714286
+5,411,239696,Flemings Selection Hotel Wien-City,0.714286
